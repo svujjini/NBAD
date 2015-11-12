@@ -1,0 +1,20 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<html>
+    <head>
+        <title>Meenu's Artistry</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="mainSS.css" type="text/css" media="screen" />
+    </head>
+    <body>
+        <header>
+            <div class="container">
+                <div class="logo"><img src="Images/logo_meenu.jpg" alt="logo"></div>
+                <h1 id="title">Meenu's Artistry</h1>
+            </div>
+            <div id="user">
+                <p>Not Signed in</p>
+            </div>
+        </header>
+

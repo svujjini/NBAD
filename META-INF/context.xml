@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context  path="/nba">
+<Resource name="jdbc/temp" auth="Container" 
+        driverClassName="com.mysql.jdbc.Driver" 
+        url="jdbc:mysql://127.4.98.2:3306/temp?autoReconnect=true" 
+        username="adminuSk3CFS" password="JleilYdxiyvX" 
+        maxActive="100" maxIdle="30" maxWait="10000" 
+        logAbandoned="true" removeAbandoned="true" 
+        removeAbandonedTimeout="60" type="javax.sql.DataSource" />
+
+</Context>
+

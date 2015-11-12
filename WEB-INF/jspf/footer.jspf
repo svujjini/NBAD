@@ -1,0 +1,7 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<footer>
+            <p>&copy;Bargav Kondapu , Sneha Vujjini - 2014</p>
+        </footer>
+    </body>
+</html>
